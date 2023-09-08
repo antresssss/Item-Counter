@@ -1,6 +1,6 @@
 # Item-Counter
 
-A new Flutter project.
+A Flutter project
 
 ## description
 
