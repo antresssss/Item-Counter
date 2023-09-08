@@ -1,8 +1,8 @@
-#Item-Counter
+# Item-Counter
 
 A Flutter project
 
-##Description
+## Description
 
 To keep track of items and their quantity and dispaly it .
 
